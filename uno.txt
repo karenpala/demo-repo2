@@ -1,0 +1,38 @@
+KPO712242300
+1165T3BNIR
+
+
+-16.500132, -68.133930
+
+
+
+
+"@types/google.maps": "^3.51.0",
+
+
+
+
+
+
+,
+  "devDependencies": {
+    "@types/google.maps": "^3.51.0"
+  }
+
+
+
+
+
+ const options = {
+        center: {lat: 36.890257, lng: 30.707417},
+        zoom: 12
+    };
+    
+    return (
+        <GMap options={options} style={{width: '100%', minHeight: '320px'}} />
+    )
+
+
+
+
+https://ponsoda.github.io/React-Leaflet-App/
