@@ -1,0 +1,6 @@
+El motivo de la presente es para solicitarte por favor las librarias
+para conectarme mediante los servicios web a impuestos, otro, otro, otro
+para incluiarlas en mi proyecto de desarrollo del sistema NOMBRE_SISTEMA
+y tambien solicitarte la documentacion (tecnica) necesaria para poder utilizar estas librerias
+atenta , a tu respuesta
+ saludos
