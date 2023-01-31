@@ -405,7 +405,9 @@ https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 JPA
 http://www.cygnussource.com/jpa-especificar-el-esquema-de-base-de-datos-en-tiempo-de-ejecucion-eclipselink/
 
-*******************************************************************************************************
+*******
+
+************************************************************************************************
 spring.jpa.database=POSTGRESQL
 spring.datasource.platform=postgres
 spring.datasource.url=jdbc:postgresql://localhost:5432/SUEJTOS_OBLIGADOS
@@ -429,3 +431,44 @@ spring.datasource.password=postgres
 spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
 
 |
+
+
+******************************************
+https://www.primefaces.org/primereact-v5/#/gmap
+
+
+https://www.youtube.com/watch?v=HtLfFlqyiIs
+
+
+https://www.geopois.com/tutoriales/webmapping/leaflet/react-leaflet/
+
+
+https://www.programcreek.com/typescript/?api=react-leaflet.Marker
+
+
+LEAFLET:
+npm install leaflet react-leaflet @types/react @types/leaflet --save
+
+https://www.bekk.christmas/post/2020/13/a-hot-chocolate-map-with-react-leaflet-and-typescript
+
+https://codesandbox.io/s/how-to-save-marker-location-when-adding-a-marker-with-onclick-on-map-in-react-leaflet-v3x-lghwn?file=/src/MyMap.jsx
+
+
+https://codesandbox.io/s/react-leaflet-markers-typescript-pq0g1?file=/src/index.tsx
+
+
+
+GIT:
+https://github.com/soydalto/Google-Maps-API.git
+
+https://github.com/gitname/react-gh-pages.git
+
+
+
+
+
+
+
+
+
+
